@@ -188,7 +188,6 @@ class KausalyaNP {
 |---|---|
 | 💼 LinkedIn | [kausalya-n-p-028682146](https://www.linkedin.com/in/kausalya-n-p-028682146) |
 | 📧 Email | [kausalyanadumane@gmail.com](mailto:kausalyanadumane@gmail.com) |
-| 📱 Phone | +91-8296849112 |
 | 🐙 GitHub | [github.com/kausalyanp](https://github.com/kausalyanp) |
 | 📢 Telegram | [t.me/studydevopsnow](https://t.me/studydevopsnow) |
 
