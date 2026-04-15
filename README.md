@@ -147,20 +147,96 @@ class KausalyaNP {
 </div>
 
 ---
-
-## 💼 Experience Timeline
-
-```
-2021 ──────────────────────────────────────────────────────── 2026
-
-  [Feb 2021 – Jan 2023]          [Apr 2023 – Mar 2024]        [May 2025 – Now]
-  Program Coordinator            Operations Coordinator        FlutterFlow Developer
-  Xcelerator / Atria University  Kaplan                        Drooley (Own Product)
-  ├─ Student placement drives    ├─ 4 intl stakeholders        ├─ Full-stack mobile app
-  ├─ Client outreach             ├─ 100 emails/day             ├─ Google Play deployed
-  └─ Technical support           └─ 85% project efficiency     └─ AdMob monetization
-```
-
+ 
+## 💼 My Journey
+ 
+<div align="center">
+<!-- Card 1 -->
+<table>
+<tr>
+<td width="60" align="center">🎓</td>
+<td>
+**`Feb 2021 → Jan 2023`** &nbsp;&nbsp; ![2yr](https://img.shields.io/badge/2%20Years-blueviolet?style=flat-square)
+ 
+### Program Coordinator — Xcelerator / Atria University
+> *Bridging students to opportunities*
+ 
+![Communication](https://img.shields.io/badge/Communication-7C3AED?style=flat-square&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat-square&logo=google&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
+ 
+<!-- Card 2 -->
+<table>
+<tr>
+<td width="60" align="center">⚙️</td>
+<td>
+**`Apr 2023 → Mar 2024`** &nbsp;&nbsp; ![1yr](https://img.shields.io/badge/1%20Year-0A66C2?style=flat-square)
+ 
+### Operations Coordinator — Kaplan
+> *Managing global stakeholders & driving efficiency*
+ 
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![SF Lightning](https://img.shields.io/badge/SF%20Lightning-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![GSuite](https://img.shields.io/badge/GSuite-4285F4?style=flat-square&logo=google&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
+ 
+<!-- Card 3 -->
+<table>
+<tr>
+<td width="60" align="center">🚀</td>
+<td>
+**`May 2025 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-34A853?style=flat-square&logo=circle&logoColor=white) ![Live on Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store%20✅-34A853?style=flat-square&logo=google-play&logoColor=white)
+ 
+### FlutterFlow Developer — Drooley *(Own Product)*
+> *Designed, built & shipped a full-stack app solo — end to end*
+ 
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7C4DFF?style=flat-square&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=google&logoColor=white)
+![Play Console](https://img.shields.io/badge/Play%20Console-34A853?style=flat-square&logo=google-play&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️
+ 
+<!-- Card 4 - Current side project -->
+<table>
+<tr>
+<td width="60" align="center">🔮</td>
+<td>
+**`Mar 2026 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-A855F7?style=flat-square&logoColor=white) ![Live](https://img.shields.io/badge/Live%20Web%20App%20🌐-7C3AED?style=flat-square&logoColor=white)
+ 
+### Fullstack Developer — Astrovya *(Own Product)*
+> *AI-powered astrology web platform with real-time chat & birth charts*
+ 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF4B91?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=flat-square&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+ 
+</td>
+</tr>
+</table>
+</div>
 ---
 
 ## 🌱 What I'm Passionate About
