@@ -28,8 +28,8 @@ class KausalyaNP {
   final String degree   = "BE – Visvesvaraya Technological University (2020)";
 
   final List<String> currentlyBuilding = [
-    "Drooley – Food & Community App (drooley.com ✅)",
-    "SarvamAstro – AI Astrology Web App (sarvamastro.com)",
+    "Drooley – Food & Community App · Play Store ✅ · drooley.com",
+    "SarvamAstro – AI Astrology App · Mobile + Web · sarvamastro.com 🚀",
   ];
 
   final List<String> superPowers = [
@@ -67,6 +67,7 @@ class KausalyaNP {
 ### 🔥 Backend & Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -95,39 +96,43 @@ class KausalyaNP {
 
 ### 🍽️ Drooley — Food & Community App
 [![Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.drooley.app)
+[![Website](https://img.shields.io/badge/Website-drooley.com-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.drooley.com)
 
 </div>
 
-> A full-stack food and community mobile application — **designed, developed, and deployed** solo on Google Play Store.
+> A full-stack food and community **mobile application** — **designed, developed, and deployed** solo on Google Play Store.
 
 | Feature | Details |
 |---|---|
-| **Stack** | FlutterFlow · Flutter · Firebase (Firestore, Auth, Storage) |
+| **Stack** | FlutterFlow · Flutter · Dart · Firebase (Firestore, Auth, Storage) · Google Cloud |
 | **Auth** | Email/Password + Google Sign-In + Play App Signing |
 | **Data** | Scalable Firestore schemas — users, recipes, events, bookings |
 | **Real-time** | Notification system for likes, comments, follows |
 | **Store** | Purchase workflows with atomic increments & concurrency safety |
 | **Monetization** | Google AdMob + premium subscription logic |
-| **Deployment** | Closed testing → Production via Google Play Console |
+| **Deployment** | Closed testing → Production via Google Play Console ✅ |
 
 ---
 
 <div align="center">
 
-### 🔮 SarvamAstro — AI Astrology Web App
-[![Live App](https://img.shields.io/badge/Live%20App-sarvamastro.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarvamastro.com)
+### 🔮 SarvamAstro — AI Astrology App
+[![Live Website](https://img.shields.io/badge/Website-sarvamastro.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sarvamastro.com)
+[![Play Store](https://img.shields.io/badge/Play%20Store-Coming%20Soon-888888?style=for-the-badge&logo=google-play&logoColor=white)](#)
 
 </div>
 
-> An AI-powered astrology consultation platform with real-time chat, birth chart generation, and an SEO blog.
+> An AI-powered astrology platform — available as a **mobile app** (Flutter) and **web app**, featuring real-time chat, birth chart generation, and an SEO blog. Play Store launch coming soon.
 
 | Feature | Details |
 |---|---|
-| **Stack** | React · Next.js · Tailwind CSS · Supabase |
+| **Mobile Stack** | Flutter · Dart · Firebase (Firestore, Auth, Storage) · Google Cloud |
+| **Web Stack** | React · Next.js · Tailwind CSS · Supabase |
 | **AI** | Real-time chat interface for AI-based astrology consultation |
 | **Charts** | Vedic & Western birth chart generation with dynamic visualization |
 | **SEO** | Dynamic routing, metadata handling, structured blog platform |
 | **Performance** | Lazy loading, efficient state management, API optimization |
+| **Deployment** | Website live ✅ · Mobile app Play Store launch in progress 🚀 |
 
 ---
 
@@ -228,13 +233,14 @@ class KausalyaNP {
 **`May 2025 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-34A853?style=flat-square&logo=circle&logoColor=white) ![Live on Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store%20✅-34A853?style=flat-square&logo=google-play&logoColor=white)
 
 ### FlutterFlow Developer — [Drooley](https://www.drooley.com) *(Own Product)*
-> *Designed, built & shipped a full-stack app solo — end to end*
+> *Designed, built & shipped a full-stack mobile app solo — end to end*
 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7C4DFF?style=flat-square&logo=flutter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=google&logoColor=white)
 ![Play Console](https://img.shields.io/badge/Play%20Console-34A853?style=flat-square&logo=google-play&logoColor=white)
 
@@ -250,16 +256,19 @@ class KausalyaNP {
 <td width="60" align="center">🔮</td>
 <td>
 
-**`Mar 2026 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-A855F7?style=flat-square&logoColor=white) ![Live](https://img.shields.io/badge/Live%20Web%20App%20🌐-7C3AED?style=flat-square&logoColor=white)
+**`Mar 2026 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-A855F7?style=flat-square&logoColor=white) ![Live](https://img.shields.io/badge/Live%20Web%20App%20🌐-7C3AED?style=flat-square&logoColor=white) ![Mobile](https://img.shields.io/badge/Mobile%20App%20🚀%20Coming%20Soon-888888?style=flat-square&logoColor=white)
 
-### Fullstack Developer — [SarvamAstro](https://www.sarvamastro.com) *(Own Product)*
-> *AI-powered astrology web platform with real-time chat & birth charts*
+### Flutter & Fullstack Developer — [SarvamAstro](https://www.sarvamastro.com) *(Own Product)*
+> *AI-powered astrology platform — mobile app + web, built solo*
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF4B91?style=flat-square&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
