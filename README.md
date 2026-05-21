@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kausalya%20N%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20FlutterFlow%20%7C%20Firebase%20%7C%20AI%20Builder&descAlignY=54&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kausalya%20N%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer%20%7C%20Flutter%20%7C%20Firebase%20%7C%20AI%20Builder&descAlignY=54&descSize=16"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Apps+from+Idea+to+Play+Store+%F0%9F%9A%80;FlutterFlow+%2B+Firebase+%2B+React+Developer;AI-Powered+Products+%7C+Prompt+Engineer;Deployed+on+Google+Play+Store+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+Apps+from+Idea+to+Play+Store+%F0%9F%9A%80;Flutter+%2B+Firebase+%2B+React+Developer;AI-Powered+Products+%7C+Prompt+Engineer;Deployed+on+Google+Play+Store+%E2%9C%85" alt="Typing SVG" />
 </a>
 
 <br/>
