@@ -28,8 +28,8 @@ class KausalyaNP {
   final String degree   = "BE – Visvesvaraya Technological University (2020)";
 
   final List<String> currentlyBuilding = [
-    "Drooley – Food & Community App (Google Play Store ✅)",
-    "Astrovya – AI Astrology Web App (astrovya.lovable.app)",
+    "Drooley – Food & Community App (drooley.com ✅)",
+    "SarvamAstro – AI Astrology Web App (sarvamastro.com)",
   ];
 
   final List<String> superPowers = [
@@ -114,8 +114,8 @@ class KausalyaNP {
 
 <div align="center">
 
-### 🔮 Astrovya — AI Astrology Web App
-[![Live App](https://img.shields.io/badge/Live%20App-astrovya.lovable.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://astrovya.lovable.app/)
+### 🔮 SarvamAstro — AI Astrology Web App
+[![Live App](https://img.shields.io/badge/Live%20App-sarvamastro.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarvamastro.com)
 
 </div>
 
@@ -142,7 +142,7 @@ class KausalyaNP {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kausalyanp&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=kausalyanp&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -205,7 +205,7 @@ class KausalyaNP {
 
 **`May 2025 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-34A853?style=flat-square&logo=circle&logoColor=white) ![Live on Play Store](https://img.shields.io/badge/Live%20on%20Play%20Store%20✅-34A853?style=flat-square&logo=google-play&logoColor=white)
 
-### FlutterFlow Developer — Drooley *(Own Product)*
+### FlutterFlow Developer — [Drooley](https://www.drooley.com) *(Own Product)*
 > *Designed, built & shipped a full-stack app solo — end to end*
 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-7C4DFF?style=flat-square&logo=flutter&logoColor=white)
@@ -230,7 +230,7 @@ class KausalyaNP {
 
 **`Mar 2026 → Present`** &nbsp;&nbsp; ![Current](https://img.shields.io/badge/Current-A855F7?style=flat-square&logoColor=white) ![Live](https://img.shields.io/badge/Live%20Web%20App%20🌐-7C3AED?style=flat-square&logoColor=white)
 
-### Fullstack Developer — Astrovya *(Own Product)*
+### Fullstack Developer — [SarvamAstro](https://www.sarvamastro.com) *(Own Product)*
 > *AI-powered astrology web platform with real-time chat & birth charts*
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -295,5 +295,6 @@ class KausalyaNP {
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 
 </div>
