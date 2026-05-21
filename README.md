@@ -135,14 +135,36 @@ class KausalyaNP {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kausalyanp&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausalyanp&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+<!-- GitHub Profile Trophies — actively maintained, very reliable -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=kausalyanp&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kausalyanp&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<!-- GitHub Profile Summary Cards — separate service, not dependent on anuraghazra -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kausalyanp&theme=2077" alt="GitHub Profile Summary" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kausalyanp&theme=2077" height="160em" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kausalyanp&theme=2077" height="160em" alt="Most Commit Language"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Activity Graph — actively maintained on vercel -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kausalyanp&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -274,15 +296,6 @@ class KausalyaNP {
 | 💼 LinkedIn | [kausalya-n-p-028682146](https://www.linkedin.com/in/kausalya-n-p-028682146) |
 | 🐙 GitHub | [github.com/kausalyanp](https://github.com/kausalyanp) |
 | 📢 Telegram | [t.me/studydevopsnow](https://t.me/studydevopsnow) |
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Activity Graph -->
-[![Kausalya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kausalyanp&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
