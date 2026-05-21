@@ -135,14 +135,14 @@ class KausalyaNP {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kausalyanp&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kausalyanp&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kausalyanp&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kausalyanp&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kausalyanp&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -295,6 +295,5 @@ class KausalyaNP {
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
 
 </div>
