@@ -303,7 +303,6 @@ class KausalyaNP {
 |---|---|
 | 💼 LinkedIn | [kausalya-n-p-028682146](https://www.linkedin.com/in/kausalya-n-p-028682146) |
 | 🐙 GitHub | [github.com/kausalyanp](https://github.com/kausalyanp) |
-| 📢 Telegram | [t.me/studydevopsnow](https://t.me/studydevopsnow) |
 
 </div>
 
