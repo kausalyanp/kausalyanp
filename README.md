@@ -12,7 +12,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kausalya-n-p-028682146)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kausalyanp)
-[![Telegram](https://img.shields.io/badge/DevOps%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/studydevopsnow)
 [![Play Store](https://img.shields.io/badge/Play%20Store-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.drooley.app)
 
 </div>
